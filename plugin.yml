@@ -1,0 +1,13 @@
+name: SinTon-Auth
+author: TSR.TW
+version: "1.0.0 #developing"
+description: An auth plugin make by TSR.TW
+main: Auth\Auth
+api:
+- 1.19.0
+- 1.17.0
+- 1.14.0
+- 1.13.0
+- 2.1.0
+- 2.0.0
+- 1.0.0
