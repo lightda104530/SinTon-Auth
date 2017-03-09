@@ -4,6 +4,7 @@ namespace Auth;
 
 /* Loading things in pocketmine core:D */
 use pocketmine\event\Listener;
+use pocketmine\event\PlayerCommandPreprocessEvent;
 use pocketmine\Player;
 use pocketmine\plugin\PluginBase;
 use pocketmine\Server;
