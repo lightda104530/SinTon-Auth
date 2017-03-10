@@ -1,4 +1,4 @@
 # SinTon-Auth
 Yep. It's a auth plugin for pocketmine
 
-[![Build Status](https://poggit.pmmp.io/ci/lightda104530/SinTon-Auth)](https://poggit.pmmp.io/ci/lightda104530/SinTon-Auth)
+[![Poggit-CI](https://poggit.pmmp.io/ci.badge/lightda104530/SinTon-Auth/SinTon-Auth)](https://poggit.pmmp.io/ci/lightda104530/SinTon-Auth/SinTon-Auth)
